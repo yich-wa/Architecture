@@ -1,9 +1,7 @@
 # Architecture
-It stores the architecture part of my study . Architecture used to be my major in undergraduate period , now It`s a pure hobby . 
+It contians my architectural projects from my undergraduate studies in architecture. After I graduated as a Bachelor of Architecture, I studied software engineering as postgraduate student. While architecture remains a cherished hobby, my primary focus has shifted to software engineering.
 
 It contains:
 
-**作品集-Portfolio**
-
-Portfolio-WangYichao.pdf
+**Architecture Portfolio**: Portfolio-WangYichao.pdf
 
